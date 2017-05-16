@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   
- <project path="device/asus/grouper" name="lineageos_android_device_asus_grouper" remote="Charles-IV" revision="cm-14.1" groups="device,grouper" />
- <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="Charles-IV" revision="ads-7.1.0" />
+ <project path="device/asus/grouper" name="lineageos_android_device_asus_grouper" remote="Charles-IV" revision="cm-14.1-mod" groups="device,grouper" />
+ <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="Charles-IV" revision="ads-7.1.0-mod" />
 
  <remove-project name="LineageOS/android_external_libnfc-nxp" />
  <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="aaopt" revision="cm-14.1" groups="pdk" />   
