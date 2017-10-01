@@ -1,3 +1,3 @@
 <manifest>
-	<project path=".repo/local_manifests" name="Charles-IV/grouper_local_manifests" remote="github" revision="cm-14.1"/>
+	<project path=".repo/local_manifests" name="Charles-IV/lineageos_local_manifests" remote="github" revision="cm-14.1"/>
 </manifest>
