@@ -9,3 +9,4 @@ repo sync -c
 . build/envsetup.sh
 brunch grouper
 ```
+Please note sometimes, you may need the --force-sync flag on repo sync.
