@@ -3,7 +3,7 @@
   
  <project path="device/asus/grouper" name="android_device_asus_grouper" remote="Charles-IV" revision="cm-14.1" groups="device,grouper" />
  <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="ads" revision="ads-7.1.0" />
-
+ <project path="device/asus/tilapia" name="android_device_asus_tilapia" remote="Charles-IV" revision="cm-14.1" />
  <remove-project name="LineageOS/android_external_libnfc-nxp" />
  <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="aaopt" revision="cm-14.1" groups="pdk" />   
  <project path="vendor/asus" name="proprietary_vendor_asus" remote="ads" revision="ads-7.0.1" />
