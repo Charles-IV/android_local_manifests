@@ -9,4 +9,4 @@ repo sync -c
 . build/envsetup.sh
 brunch <device>  # where <device> is grouper or tilapia (or any other supported device)
 ```
-Please note sometimes, you may need the `--force-sync flag` on the `repo sync` command.
+Please note sometimes, you may need the `--force-sync` flag on the `repo sync` command.
