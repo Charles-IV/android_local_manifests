@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_xiaomi_tissot" path="device/xiaomi/tissot" remote="github" />
+  <project name="LineageOS/android_device_xiaomi_msm8953-common" path="device/xiaomi/msm8953-common" remote="github" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953" remote="github" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="github" />
+</manifest>
